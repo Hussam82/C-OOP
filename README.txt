@@ -1,4 +1,5 @@
 University Students database system
+This project was a group project.
 It reads a file then opens a menu which allows the user to enter his choice.
 The user can :
 -Enter '1' to enter student data
